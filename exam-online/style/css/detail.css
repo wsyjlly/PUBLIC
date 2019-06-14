@@ -1,0 +1,20 @@
+.index_rotate{
+	transform:rotate(45deg);
+}
+
+.top-50{
+    top: -50px;
+}
+.right-50{
+    right: -50px;
+}
+.lh_30{
+	line-height: 30px;
+}
+.border_bottom_topic{
+	border-bottom: solid 1px #bbb;
+}
+
+.border_bottom_topic:last-child{
+	border-bottom: none;
+}
